@@ -3,6 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aavishkar-kolte&label=Profile%20views&color=0e75b6&style=flat" alt="aavishkar-kolte" /> </p>
 
+
+<img src="https://raw.githubusercontent.com/Aavishkar-Kolte/Aavishkar-Kolte/output/snake.svg" alt="Snake animation" />
+
+###
+
 - 📫 How to reach me **aavishkarkolte@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
